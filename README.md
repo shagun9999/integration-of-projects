@@ -1,2 +1,1 @@
-# integration of projects
- 
+# MiniProject-churn-dataset
